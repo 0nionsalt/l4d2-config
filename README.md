@@ -1,12 +1,12 @@
 # L4D2 config
 
-A personalised config for Left 4 Dead 2.
+A basic and personalised config for L4D2.
 
 ### Launch Options
-`-refresh 144 -novid -nojoy -high -lv -useallavailablecores -16bpp -nocrashdialog -fullscreen -noforcemaccel -noforcemparms -useallavailablecores +mat_motion_blur_percent_of_screen_max 0`
+`-dxlevel 81 -refresh 144 -novid -nojoy -high -lv -nopreload -forcenovsync -useallavailablecores -16bpp -nocrashdialog -fullscreen -noforcemaccel -noforcemparms -cl_disablehtmlmotd 1 -useallavailablecores +mat_motion_blur_percent_of_screen_max 0`
 
 ### Steam Workshop Collection
-* [Steam Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2755803413)
+* [L4D2 Q.O.F Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2755803413)
 
 ### Installation
 1. Download ahud by clicking `Download ZIP` from the green `Clone or download` button
